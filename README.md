@@ -32,5 +32,5 @@ I’m a Computer Science undergraduate passionate about **AI/ML and Generative A
 
 ## 🤝 Connect with Me
 - 💻 GitHub: [@Sahasrika15](https://github.com/Sahasrika15)
-- 💼 LinkedIn: [Sahasrika Ellendula](https://www.linkedin.com/in/sahasrika-ellendula/)
+- 💼 LinkedIn: [Sahasrika Ellendula](https://www.linkedin.com/in/ellendulasahasrika/)
 - 📧 Email: sahasrikaellendula2006@gmail.com
