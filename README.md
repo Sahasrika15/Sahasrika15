@@ -3,7 +3,7 @@
 🚀 **AI/ML Engineer | Full-Stack Developer | Mobile AI Enthusiast**  
 📍 Hyderabad, India
 
-I’m a Computer Science undergraduate passionate about **AI/ML and Generative AI**, with hands-on experience in **full-stack development** and **mobile AI deployment**. I enjoy building **end-to-end, real-world systems**—from modern web interfaces to running **offline Large Language Models on Android**. Always curious, always learning, and focused on creating scalable, impactful solutions.
+I’m a Computer Science undergraduate passionate about **AI/ML and Generative AI**, with hands-on experience in **full-stack development** and **mobile AI deployment**. I enjoy building **end-to-end, real-world systems** from modern web interfaces to running **offline Large Language Models on Android**. Always curious, always learning, and focused on creating scalable, impactful solutions.
 
 ---
 
